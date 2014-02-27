@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 1f8475c067f9f454d84de70ebeaad852
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: explode_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: explode_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 440
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: explode_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 440
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: special_0
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 440
+        width: 244
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 330
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 330
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: special_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 330
+        width: 244
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 220
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: special_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 244
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: invaders_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 110
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: invaders_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 110
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: base_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: base_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: base_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_18
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 177
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_19
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 180
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 177
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_21
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 177
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_22
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 175
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: invaders_23
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 113
+        width: 74
+        height: 35
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: invaders_24
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 115
+        width: 71
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: invaders_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 34
+        width: 83
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: invaders_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 38
+        width: 67
+        height: 39
+      alignment: 7
+      pivot: {x: .5, y: 0}
+  spritePackingTag: 
+  userData: 
